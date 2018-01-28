@@ -100,7 +100,7 @@ busuanzi: true ## If you want to use Busuanzi page views please set the value to
 
 # About page
 about:
-  photo_url: http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg ## Your photo e.g. http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg
+  photo_url: https://github.com/account ## Your photo e.g. http://obzf7z93c.bkt.clouddn.com/themeauthor.jpg
   items:
     - label: github
       url: https://github.com/xiaqiu2233 ## Your github'url e.g.  https://github.com/chaooo
